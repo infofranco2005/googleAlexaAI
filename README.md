@@ -164,10 +164,14 @@ Gostaríamos de agradecer:
 *   **À Amazon:** Por disponibilizar a Alexa e sua plataforma de desenvolvimento.
 *   **A todos os contribuidores deste projeto!**
 
-**Obrigado por fazer parte desta jornada!** 🙏![projetofim](https://github.com/user-attachments/assets/8c6bc16c-c8b4-47ab-a5ed-147de77a1350)
+**Obrigado por fazer parte desta jornada!** 🙏![projetofim]
 
 
-**Divsimirta-se explorando o futuro da IA com Python e Alexa!** 🎉
+**Divirta-se explorando o futuro da IA com Python e Alexa!** 🎉
+
+(https://github.com/user-attachments/assets/8c6bc16c-c8b4-47ab-a5ed-147de77a1350)
+
+
 
 LINK video font para conseguir construir 
 https://www.youtube.com/watch?v=JZcycjP_hB0
