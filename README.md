@@ -164,7 +164,8 @@ Gostaríamos de agradecer:
 *   **À Amazon:** Por disponibilizar a Alexa e sua plataforma de desenvolvimento.
 *   **A todos os contribuidores deste projeto!**
 
-**Obrigado por fazer parte desta jornada!** 🙏
+**Obrigado por fazer parte desta jornada!** 🙏![projetofim](https://github.com/user-attachments/assets/8c6bc16c-c8b4-47ab-a5ed-147de77a1350)
+
 
 **Divsimirta-se explorando o futuro da IA com Python e Alexa!** 🎉
 
