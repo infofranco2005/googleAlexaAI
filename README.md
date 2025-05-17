@@ -169,7 +169,13 @@ Gostaríamos de agradecer:
 
 **Divirta-se explorando o futuro da IA com Python e Alexa!** 🎉
 
-https://github.com/user-attachments/assets/8c6bc16c-c8b4-47ab-a5ed-147de77a1350
+![alexaGoogle](https://github.com/user-attachments/assets/4bea05d9-c892-4170-916c-83f2bd7ca35f)
+
+![projetofim](https://github.com/user-attachments/assets/f92a656c-c6f3-4145-a951-58181273834d)
+
+![pyprj](https://github.com/user-attachments/assets/9bb46b92-672a-4534-92c2-c248c42ac84b)
+
+![vsc](https://github.com/user-attachments/assets/b61eed32-3a51-4b33-9abd-0c75b9cfac70)
 
 
 
