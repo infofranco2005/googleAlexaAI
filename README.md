@@ -169,7 +169,7 @@ Gostaríamos de agradecer:
 
 **Divirta-se explorando o futuro da IA com Python e Alexa!** 🎉
 
-(https://github.com/user-attachments/assets/8c6bc16c-c8b4-47ab-a5ed-147de77a1350)
+https://github.com/user-attachments/assets/8c6bc16c-c8b4-47ab-a5ed-147de77a1350
 
 
 
